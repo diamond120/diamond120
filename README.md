@@ -1,4 +1,4 @@
-<h1 align="center">Senior Full Stack Developer, Machine Learning Engineer</h1>
+<h1 align="center">Full Stack Engineer</h1>
 
 ## About Me
 
