@@ -3,8 +3,8 @@
 ## About Me
 
 A Full Stack Developer with over 10 years of experience in designing, developing, and testing web applications using Python, JavaScript, PHP, and
-related frameworks.
-Proficient in cloud based deployment with AWS, Azure, GCP and containerization tools such as Docker, Kubernetes.
+related frameworks. <br>
+Proficient in cloud based deployment with AWS, Azure, GCP and containerization tools such as Docker, Kubernetes. <br>
 Skillful in integrating third-party APIs, machine learning algorithms, and models into applications with hands-on experience in data science.
 
 ## Skills
