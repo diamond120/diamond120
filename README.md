@@ -4,7 +4,7 @@
 
 Mastered designing, developing, and testing web applications using Python, JavaScript, PHP, and related frameworks. <br>
 Proficient in cloud based deployment with AWS, Azure, GCP and containerization tools such as Docker, Kubernetes. <br>
-Skillful in integrating third-party APIs, machine learning algorithms, and models into applications with hands-on experience in data science.
+Skillful in integrating third-party APIs, machine learning algorithms, and models into applications with hands-on experience and professional knowledge in data science.
 
 ## Skills
 <div style="display: flex; align-items: flex-start; align-content: center">  
