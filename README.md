@@ -71,7 +71,7 @@ Dedicated to crafting elegant and scalable solutions.
       <br>PHP  
     </td>    
   </tr>  
-  <!-- <tr>  
+  <tr>  
     <td align="center" width="80">  
         <img  width="35" height="35" src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" />  
       <br>TF  
@@ -112,7 +112,7 @@ Dedicated to crafting elegant and scalable solutions.
       <img  width="35" height="35" src="assets/face.jpg" alt="Face Recognition" />  
       <br>Face 
     </td>  
-  </tr>   -->
+  </tr>
   <tr>  
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
