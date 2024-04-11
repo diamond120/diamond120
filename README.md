@@ -225,14 +225,5 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 
 ## Stats:
 
-<table style="border: none">
-  <tr>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=diamond312&count_private=true&show_icons=true&theme=react"  alt=""/>
-    </td>
-    <td>
-      <img width="100%" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>  
-    </td>
-  </tr>
-</table>
+<img width="100%" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>  
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diamond312&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
