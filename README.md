@@ -1,5 +1,3 @@
-<h1 align="center">Full Stack Engineer</h1>
-
 ## About Me
 
 Mastered designing, developing, and testing web applications using Python, JavaScript, PHP, and related frameworks. <br>
