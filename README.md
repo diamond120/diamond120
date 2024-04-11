@@ -42,15 +42,15 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
   <tr>  
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
-      <br>NodeJs  
+      <br>Node.js  
     </td>   
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
-      <br>Express  
+      <br>Express.js
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
-      <br>Nestjs  
+      <br>Nest.js  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
@@ -106,7 +106,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=postgresql" alt="icon" alt="PostgreSQL" />  
-      <br>PgSQL  
+      <br>Postgres  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
@@ -135,18 +135,14 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>TensorFlow
     </td>  
     <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/cuda.png" alt="Cuda" />  
-      <br>Cuda
-    </td>  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />  
+      <br>PyTorch  
+    </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="assets/keras.png" alt="Keras" />  
       <br>Keras  
     </td>  
     <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/pytorch.svg" alt="PyTorch" />  
-      <br>PyTorch  
-    </td>  
-        <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />  
       <br>OpenCV  
     </td>    
@@ -155,8 +151,12 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>OpenAI  
     </td>  
     <td align="center" width="80">  
+      <img  width="35" height="35" src="assets/cuda.png" alt="Cuda" />  
+      <br>Cuda
+    </td>  
+    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
-      <br>RP 
+      <br>RP   
     </td>
   </tr>
 </table>  
