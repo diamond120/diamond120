@@ -7,7 +7,7 @@ Proficient in cloud based deployment with AWS, Azure, GCP and containerization t
 Skillful in integrating third-party APIs, machine learning algorithms, and models into applications with hands-on experience and professional knowledge in data science.
 
 ## Skills
-<div style="display: flex; align-items: justify-center; align-content: center">  
+<div style="display: flex; justify-content: center">  
 <table style="text-align: center;">  
   <tr> 
     <td align="center" width="80">  
@@ -163,4 +163,6 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 </div>
 
 ## Statistics
-<img width="600" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>
+<div style="display: flex; justify-content: center"> 
+  <img width="600" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>
+</div>
