@@ -155,7 +155,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     </td>  
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
-      <br>RP   
+      <br>RaspBerry   
     </td>
   </tr>
 </table>  
