@@ -121,7 +121,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Docker  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" alt="AWS" />  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=aws" alt="icon" alt="AWS" />  
       <br>AWS  
     </td>
     <td align="center" width="80">  
@@ -132,7 +132,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
   <tr>  
     <td align="center" width="80">  
         <img  width="35" height="35" src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" />  
-      <br>TF  
+      <br>TensorFlow
     </td>  
     <td align="center" width="80">  
       <img  width="35" height="35" src="assets/cuda.png" alt="Cuda" />  
