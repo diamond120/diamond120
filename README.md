@@ -112,12 +112,8 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>MongoDB
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
-      <br>Git  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
-      <br>Docker  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" alt="Git" />  
+      <br>ElasticSearch
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=aws" alt="icon" alt="AWS" />  
@@ -126,6 +122,10 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=azure" alt="icon" alt="Nginx" />  
       <br>Azure  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=gcp" alt="icon" alt="Docker" />  
+      <br>GCP  
     </td>
   </tr>
   <tr>  
