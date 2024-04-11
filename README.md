@@ -225,7 +225,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 
 ## Stats:
 
-<table>
+<table style="border: none">
   <tr>
     <td>
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=diamond312&count_private=true&show_icons=true&theme=react"  alt=""/>
