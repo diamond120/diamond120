@@ -1,5 +1,4 @@
-<center><h1>Super @lchemist</h1></center>
-<img src="./assets/profile-night-green.svg" style = "width : 100%;"/>
+<h1 align="center">Senior Full Stack Developer, Machine Learning Engineer</h1>
 
 # About Me
 
@@ -244,7 +243,6 @@ Dedicated to crafting elegant and scalable solutions.
 
 # 📊 GitHub Stats:
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=diamond312&count_private=true&show_icons=true&theme=react"  alt=""/>
-<img width="425" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/><br>
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=diamond312&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamond312&layout=donut" alt=""/><br> -->
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=diamond312&count_private=true&show_icons=true&theme=react"  alt=""/>
+<img width="50%" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/><br>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diamond312&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
