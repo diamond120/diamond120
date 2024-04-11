@@ -56,14 +56,6 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <img  width="35" height="35" src="assets/pytorch.svg" alt="PyTorch" />  
       <br>PyTorch  
     </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/caffe.png" alt="Caffe" />  
-      <br>Caffe  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/darknet_notext.png" alt="YOLO" />  
-      <br>YOLO  
-    </td>
         <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />  
       <br>OpenCV  
@@ -73,13 +65,9 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>OpenAI  
     </td>  
     <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/alpr.png" alt="ALPR" />  
-      <br>ALPR  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/face.jpg" alt="Face Recognition" />  
-      <br>Face 
-    </td>  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
+      <br>RP 
+    </td>
   </tr>
   <tr>  
     <td align="center" width="80">  
@@ -177,10 +165,6 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" alt="AWS" />  
       <br>AWS  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
-      <br>RP 
     </td>
   </tr>
 </table>  
