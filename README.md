@@ -7,8 +7,7 @@ Proficient in cloud based deployment with AWS, Azure, GCP and containerization t
 Skillful in integrating third-party APIs, machine learning algorithms, and models into applications with hands-on experience and professional knowledge in data science.
 
 ## Skills
-<div style="display: flex; justify-content: center">  
-<table style="text-align: center;">  
+<table style="margin: auto">  
   <tr> 
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
