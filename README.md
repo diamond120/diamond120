@@ -222,7 +222,5 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 </table>  
 </div>
 
-## Stats:
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>  
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diamond312&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+## Statistics
+<img width="100%" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>
