@@ -11,12 +11,8 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 <table style="text-align: center;">  
   <tr> 
     <td align="center" width="80">  
-    <img  width="35" height="35" src="https://skillicons.dev/icons?i=html" alt="HTML" />  
-      <br>HTML  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=css" alt="CSS" />  
-      <br>CSS  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
+      <br>Python  
     </td> 
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="Javascript" />  
@@ -24,32 +20,24 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />  
-      <br>TS  
-    </td> 
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
-      <br>NodeJs  
-    </td>   
-    <td align="center" width="80" align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="icon" alt="C++" />  
-      <br>C++  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cs" alt="C#" />  
-      <br>C#  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />  
-      <br>Java  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
-      <br>Python  
-    </td> 
+      <br>TypeScript  
+    </td>     
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=php" alt="PHP" />  
       <br>PHP  
-    </td>    
+    </td>      
+    <td align="center" width="80" align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="icon" alt="C++" />  
+      <br>C++  
+    </td> 
+    <td align="center" width="80">  
+    <img  width="35" height="35" src="https://skillicons.dev/icons?i=html" alt="HTML" />  
+      <br>HTML  
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=css" alt="CSS" />  
+      <br>CSS  
+    </td> 
   </tr>  
   <tr>  
     <td align="center" width="80">  
@@ -95,6 +83,10 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
   </tr>
   <tr>  
     <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
+      <br>NodeJs  
+    </td>   
+    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
       <br>Express  
     </td>
@@ -111,28 +103,12 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Flask  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="icon" alt=".Net" />  
-      <br>.Net  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=spring" alt="icon" alt="Spring" />  
-      <br>Spring  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=hibernate" alt="icon" alt="Hibernate" />  
-      <br>Hibernate  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
+      <br>Laravel  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=wordpress" alt="icon" alt="WordPress" />  
       <br>WordPress  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/ci-logo.png" alt="icon" alt="CI" />  
-      <br>CI  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
-      <br>Laravel  
     </td>
   </tr>
   <tr>  
@@ -153,16 +129,8 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Vue  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=svelte" alt="icon" alt="Svelte" />  
-      <br>Svelte  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=electron" alt="icon" alt="Electron" />  
-      <br>Electron  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=alpinejs" alt="icon" alt="Alpinejs" />  
-      <br>Alpinejs  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=bootstrap" alt="icon" alt="Bootstrap" />  
+      <br>Bootstrap  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
@@ -171,10 +139,6 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=threejs" alt="icon" alt="Threejs" />  
       <br>Threejs  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=bootstrap" alt="icon" alt="Bootstrap" />  
-      <br>BS  
     </td>
   </tr>
   <tr>  
@@ -188,7 +152,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
-      <br>Mongo
+      <br>MongoDB
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
