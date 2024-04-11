@@ -41,36 +41,6 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
   </tr>  
   <tr>  
     <td align="center" width="80">  
-        <img  width="35" height="35" src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" />  
-      <br>TF  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/cuda.png" alt="Cuda" />  
-      <br>Cuda
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/keras.png" alt="Keras" />  
-      <br>Keras  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/pytorch.svg" alt="PyTorch" />  
-      <br>PyTorch  
-    </td>  
-        <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />  
-      <br>OpenCV  
-    </td>    
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="assets/openai.png" alt="OpenAI" />  
-      <br>OpenAI  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
-      <br>RP 
-    </td>
-  </tr>
-  <tr>  
-    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
       <br>NodeJs  
     </td>   
@@ -147,14 +117,6 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Git  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=github" alt="icon" alt="GitHub" />  
-      <br>GitHub  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" alt="Stackoverflow" />  
-      <br>Stack  
-    </td>
-    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
       <br>Docker  
     </td>
@@ -165,6 +127,36 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" alt="AWS" />  
       <br>AWS  
+    </td>
+  </tr>
+  <tr>  
+    <td align="center" width="80">  
+        <img  width="35" height="35" src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" />  
+      <br>TF  
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="assets/cuda.png" alt="Cuda" />  
+      <br>Cuda
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="assets/keras.png" alt="Keras" />  
+      <br>Keras  
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="assets/pytorch.svg" alt="PyTorch" />  
+      <br>PyTorch  
+    </td>  
+        <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />  
+      <br>OpenCV  
+    </td>    
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="assets/openai.png" alt="OpenAI" />  
+      <br>OpenAI  
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
+      <br>RP 
     </td>
   </tr>
 </table>  
