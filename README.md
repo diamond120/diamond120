@@ -2,10 +2,10 @@
 
 ## About Me
 
-Seasoned developer with hands-on experience of React, Angular, Vue, 2 years of finesse in Reactjs, and a year's expertise in Solidity.
-And Also I am 3d Website & WebGL & Game Developer.
-Architecting networks for a decade, sculpting database landscapes for 8 years, and weaving WordPress magic as a template and plugin creator for 8 years.
-Dedicated to crafting elegant and scalable solutions.
+A Full Stack Developer with over 10 years of experience in designing, developing, and testing web applications using Python, JavaScript, PHP, and
+related frameworks.
+Proficient in cloud based deployment with AWS, Azure, GCP and containerization tools such as Docker, Kubernetes.
+Skillful in integrating third-party APIs, machine learning algorithms, and models into applications with hands-on experience in data science.
 
 ## Skills
 <div style="display: flex; align-items: flex-start; align-content: center">  
@@ -225,6 +225,6 @@ Dedicated to crafting elegant and scalable solutions.
 
 ## Stats:
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=diamond312&count_private=true&show_icons=true&theme=react"  alt=""/>
-<img width="50%" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/><br>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=diamond312&count_private=true&show_icons=true&theme=react"  alt=""/>
+<img width="40%" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>  
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diamond312&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
