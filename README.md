@@ -163,4 +163,4 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 </div>
 
 ## Statistics
-<img width="560" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>
+<img width="600" src="https://streak-stats.demolab.com/?user=diamond312&theme=react"  alt=""/>
