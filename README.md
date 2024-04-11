@@ -61,12 +61,12 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Flask  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
-      <br>Laravel  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
+      <br>FastAPI  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=wordpress" alt="icon" alt="WordPress" />  
-      <br>WordPress  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
+      <br>Laravel  
     </td>
   </tr>
   <tr>  
@@ -87,16 +87,16 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Vue  
     </td>
     <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=jquery" alt="icon" alt="Threejs" />  
+      <br>jQuery  
+    </td>
+    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=bootstrap" alt="icon" alt="Bootstrap" />  
       <br>Bootstrap  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
       <br>Tailwind  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=jquery" alt="icon" alt="Threejs" />  
-      <br>jQuery  
     </td>
   </tr>
   <tr>  
