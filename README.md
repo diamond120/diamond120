@@ -95,8 +95,8 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Tailwind  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=threejs" alt="icon" alt="Threejs" />  
-      <br>Threejs  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=jquery" alt="icon" alt="Threejs" />  
+      <br>jQuery  
     </td>
   </tr>
   <tr>  
@@ -121,12 +121,12 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Docker  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" alt="Nginx" />  
-      <br>Nginx  
-    </td>
-    <td align="center" width="80">  
       <img  width="35" height="35" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" alt="AWS" />  
       <br>AWS  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=azure" alt="icon" alt="Nginx" />  
+      <br>Azure  
     </td>
   </tr>
   <tr>  
