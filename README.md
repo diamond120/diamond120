@@ -138,25 +138,25 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>PyTorch  
     </td>
     <td align="center" width="90">  
-      <img  width="35" height="35" src="assets/keras.png" alt="Keras" />  
+      <img  width="35" height="35" style="border-radius: 8px" src="assets/keras.png" alt="Keras" />  
       <br>Keras  
     </td>  
     <td align="center" width="90">  
+      <img  width="35" height="35" style="border-radius: 8px" src="assets/scikit.png" alt="Scikit" />  
+      <br>Scikit  
+    </td>  
+    <td align="center" width="90">  
+      <img  width="35" height="35" style="border-radius: 8px" src="assets/langchain.png" alt="LangChain" />  
+      <br>LangChain
+    </td>   
+    <td align="center" width="90">  
+      <img  width="35" height="35" style="border-radius: 8px" src="assets/pandas.png" alt="icon" alt="RaspberryPi" />  
+      <br>Pandas   
+    </td>
+    <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />  
       <br>OpenCV  
-    </td>    
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="assets/openai.png" alt="OpenAI" />  
-      <br>OpenAI  
-    </td>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="assets/cuda.png" alt="Cuda" />  
-      <br>Cuda
-    </td>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
-      <br>RaspBerry   
-    </td>
+    </td>   
   </tr>
 </table>  
 </div>
