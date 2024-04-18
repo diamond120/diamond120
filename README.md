@@ -86,12 +86,12 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
       <br>Vue  
     </td>
     <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=jquery" alt="icon" alt="Threejs" />  
-      <br>jQuery  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nuxt" alt="icon" alt="Bootstrap" />  
+      <br>Nuxt  
     </td>
     <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=bootstrap" alt="icon" alt="Bootstrap" />  
-      <br>Bootstrap  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=electron" alt="icon" alt="Threejs" />  
+      <br>Electron  
     </td>
     <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
