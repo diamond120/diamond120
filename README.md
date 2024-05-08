@@ -40,6 +40,10 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
   </tr>  
   <tr>  
     <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
+      <br>Laravel  
+    </td>
+    <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
       <br>Node.js  
     </td>   
@@ -62,10 +66,6 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
       <br>FastAPI  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
-      <br>Laravel  
     </td>
   </tr>
   <tr>  
