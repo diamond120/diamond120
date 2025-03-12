@@ -4,7 +4,7 @@
 
 Well-Rounded Senior Software Engineer with a unique blend of AI, full-stack, and cloud engineering, delivering transformative solutions in fast-paced environments for global technology leaders. <br>
 Extensive hands-on experience at enterprise corporations, designing, developing, and deploying high-performance web applications with Python, JavaScript, PHP frameworks and libraries, SQL and NoSQL databases, and DevOps best practices. <br>
-Proficient in rapid prototyping and MVP development at startups and IT services companies, architecting, testing, and launching AI-powered products using LangChain, LangGraph, TensorFlow, and PyTorch, while driving iterative upgrades and rapid expansion across various industries through automatic CI/CD pipelines with Git, Docker, Kubernetes, AWS, and GCP. <br>
+Proficient in rapid prototyping and MVP development at startups and IT services companies, architecting, testing, and launching AI-powered products using LangChain, LangGraph, TensorFlow, and PyTorch, while driving iterative upgrades and rapid expansion across various industries through automatic CI/CD pipelines with Git, Docker, Kubernetes, AWS, Azure, and GCP. <br>
 
 ## Skills
 <table>  
@@ -40,6 +40,18 @@ Proficient in rapid prototyping and MVP development at startups and IT services 
   </tr>  
   <tr>  
     <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
+      <br>Django  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=flask" alt="icon" alt="Flask" />  
+      <br>Flask  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
+      <br>FastAPI  
+    </td>
+    <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
       <br>Laravel  
     </td>
@@ -54,18 +66,6 @@ Proficient in rapid prototyping and MVP development at startups and IT services 
     <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
       <br>Nest.js  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
-      <br>Django  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=flask" alt="icon" alt="Flask" />  
-      <br>Flask  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
-      <br>FastAPI  
     </td>
   </tr>
   <tr>  
@@ -130,6 +130,10 @@ Proficient in rapid prototyping and MVP development at startups and IT services 
   </tr>
   <tr>  
     <td align="center" width="90">  
+      <img  width="35" height="35" style="border-radius: 8px" src="assets/langchain.png" alt="LangChain" />  
+      <br>LangChain
+    </td>   
+    <td align="center" width="90">  
         <img  width="35" height="35" src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" />  
       <br>TensorFlow
     </td>  
@@ -145,10 +149,6 @@ Proficient in rapid prototyping and MVP development at startups and IT services 
       <img  width="35" height="35" style="border-radius: 8px" src="assets/scikit.png" alt="Scikit" />  
       <br>Scikit  
     </td>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" style="border-radius: 8px" src="assets/langchain.png" alt="LangChain" />  
-      <br>LangChain
-    </td>   
     <td align="center" width="90">  
       <img  width="35" height="35" style="border-radius: 8px" src="assets/pandas.png" alt="icon" alt="RaspberryPi" />  
       <br>Pandas   
